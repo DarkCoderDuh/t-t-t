@@ -1,4 +1,6 @@
 # Tick Tac Toe
 
 ## Goal
-WIn against the bot :D
+Win against your friend :D
+
+If you have any ofc xD
